@@ -1,0 +1,8 @@
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\bin\Debug\netcoreapp2.1\UrnaLivre.deps.json
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\bin\Debug\netcoreapp2.1\UrnaLivre.runtimeconfig.json
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\bin\Debug\netcoreapp2.1\UrnaLivre.runtimeconfig.dev.json
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\bin\Debug\netcoreapp2.1\UrnaLivre.dll
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\obj\Debug\netcoreapp2.1\UrnaLivre.csprojAssemblyReference.cache
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\obj\Debug\netcoreapp2.1\UrnaLivre.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\obj\Debug\netcoreapp2.1\UrnaLivre.AssemblyInfoInputs.cache
+C:\Projetos\Personal\UrnaLivre\UrnaLivre\UrnaLivre\UrnaLivre\obj\Debug\netcoreapp2.1\UrnaLivre.AssemblyInfo.cs

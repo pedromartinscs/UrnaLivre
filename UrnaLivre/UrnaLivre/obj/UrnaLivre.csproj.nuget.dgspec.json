@@ -43,10 +43,18 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             }
           },
           "imports": [
